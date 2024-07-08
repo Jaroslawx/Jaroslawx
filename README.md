@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ASP.NET, SQL**
 
-- 👨‍💻 All of my projects are available [here](here)
+- 👨‍💻 All of my projects are available **here**
 
 - 📫 How to reach me **ad.jaro@wp.pl**
 
