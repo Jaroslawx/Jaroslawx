@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **ExpenseTrackingApplication**
 
-- 🌱 I’m currently learning **ASP.NET, SQL**
+- 🌱 I’m currently learning **ASP.NET, React, SQL**
 
 - 👨‍💻 All of my projects are available **here**
 
