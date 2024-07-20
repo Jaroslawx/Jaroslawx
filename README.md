@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
 <h3 align="center">Young developer from Poland</h3>
 
-- 🔭 I’m currently working on **ExpenseTrackingApplication**
+- 🔭 I’m currently working on **[ExpenseTrackingApplication](https://github.com/Jaroslawx/ExpenseTrackingApplication)**
 
 - 🌱 I’m currently learning **ASP.NET, React, SQL**
 
