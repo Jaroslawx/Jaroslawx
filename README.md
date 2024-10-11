@@ -2,7 +2,7 @@
 <h2 align="center">Young developer from Poland</h2>
 
 # 💫 About Me:
-🔭 I’m currently working on [ExpenseTrackingApplication](https://github.com/Jaroslawx/ExpenseTrackingApplication)<br><br>🌱 I’m currently learning ASP.NET, React<br><br>👨‍💻 All of my projects are available here<br><br>📫 How to reach me ad.jaro@wp.pl<br><br>⚡ Fun fact 🗿🤙
+🔭 I’m currently working on ...<br><br>🌱 I’m currently learning ASP.NET, React<br><br>👨‍💻 All of my projects are available here<br><br>📫 How to reach me ad.jaro@wp.pl<br><br>⚡ Fun fact 🗿🤙
 
 
 # 💻 Tech Stack:
