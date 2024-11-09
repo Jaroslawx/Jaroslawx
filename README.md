@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 🔭 I’m currently working on <b>React/TypeScript</b> project: [LibraryFront](https://github.com/Jaroslawx/LibraryFront)<br><br>
-🌱 I’m currently learning ASP.NET, React<br><br>
+🌱 I’m currently learning React and TypeScript<br><br>
 👨‍💻 All of my projects are available here<br><br>
 ⚡ Fun fact 🗿🤙
 
