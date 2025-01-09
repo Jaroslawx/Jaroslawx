@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adam</h1>
+<h1 align="center">Hi 👋, I'm Jarek</h1>
 <h2 align="center">Young developer from Poland</h2>
 
 # 💫 About Me:
